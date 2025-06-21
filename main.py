@@ -8,4 +8,4 @@ for i in range(select_time,0,-1):
     hours=int(i / 3600)
     print(f'{hours:02}:{mınutes:02}:{seconds:02}')
     time.sleep(1)
-print("TİME'S UP!")
+print("TİME'S UP!!!")
